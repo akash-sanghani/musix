@@ -1,0 +1,26 @@
+{
+  "name": "MusicPlayer_tray",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "electron": "^11.3.0",
+    "jquery": "^3.5.1",
+    "music-metadata": "^7.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miths/musix.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miths/musix/issues"
+  },
+  "homepage": "https://github.com/miths/musix#readme"
+}
